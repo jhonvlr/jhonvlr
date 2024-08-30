@@ -15,7 +15,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=jhonvlr&show_icons=true&theme=holi" alt="Jhonvlr's GitHub stats" height="165px" />
 
-  <a href="https://github.com/mari4souza/github-readme-stats">
+  <a href="https://github.com/jhonvlr/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonvlr&layout=compact&theme=holi" alt="Top Langs" height="165px" />
   </a>
 </div>

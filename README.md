@@ -5,12 +5,14 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7168dc36-ce4c-4018-9fff-e16b32215873" alt="Black-Minimal-Email-Header">
+  <a href="https://github.com/jhonvlr">
+    <img src="https://github.com/user-attachments/assets/7168dc36-ce4c-4018-9fff-e16b32215873" alt="Black-Minimal-Email-Header">
+  </a>
 </div>
 
 ##
 
-<div style="text-align: center;" align="center">
+<div align="center">
   <h3>* GitHub Stats *</h3>
   <br>
   <a href="https://github.com/jhonvlr">

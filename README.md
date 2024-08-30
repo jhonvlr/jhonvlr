@@ -3,6 +3,8 @@
 - 🔭 Ainda não trabalho na área. 
 - 🌱 Estudando JavaScript
 
+![Black-Minimal-Email-Header](https://github.com/user-attachments/assets/7168dc36-ce4c-4018-9fff-e16b32215873)
+
 
 <div>
 <a href="https://github.com/jhonvlr">
@@ -32,3 +34,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhonvlr/jhonvlr/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jhonvlr/jhonvlr/output/github-contribution-grid-snake.svg">
 </picture>
+
+![Black-Minimal-Email-Header](https://github.com/user-attachments/assets/7168dc36-ce4c-4018-9fff-e16b32215873)

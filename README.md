@@ -1,10 +1,12 @@
-## Olá! Eu sou o João Vitor. 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-- 🔭 Ainda não trabalho na área. 
-- 🌱 Estudando JavaScript
-
-![Black-Minimal-Email-Header](https://github.com/user-attachments/assets/7168dc36-ce4c-4018-9fff-e16b32215873)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7168dc36-ce4c-4018-9fff-e16b32215873" alt="Black-Minimal-Email-Header">
+</div>
 
 <div>
 <a href="https://github.com/jhonvlr">
